@@ -1,0 +1,4 @@
+C:\Users\Дом\Desktop\soldat1\labr\obj\Debug\soldat22.csprojAssemblyReference.cache
+C:\Users\Дом\Desktop\soldat1\labr\obj\Debug\soldat22.csproj.CoreCompileInputs.cache
+C:\Users\Дом\Desktop\soldat1\labr\obj\Debug\labr.dll
+C:\Users\Дом\Desktop\soldat1\labr\obj\Debug\labr.pdb
